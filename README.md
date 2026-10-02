@@ -7,6 +7,7 @@ przegląd wynagrodzeń, budżet kosztów pracy na 2027 r. i dashboard dla zarzą
 > **Dane są w pełni fikcyjne** i spseudonimizowane (zamiast nazwisk jest tylko ID pracownika).
 > Plik wymaga Excela 365 lub Excela w przeglądarce (funkcje dynamiczne: FILTER, SORT, XLOOKUP).
 
+Plik można pobrać z repozytorium lub wyświetlić poprzez podany link (arkusz został wstawiony na platformę OneDrive): https://1drv.ms/x/c/a75301766ab1be92/IQCPkNuFAIy1QKkbt49ZEaAAAT0mu95BxGFfrvnuKyhNclo?e=rU5SU4
 ---
 
 ## Dashboard
