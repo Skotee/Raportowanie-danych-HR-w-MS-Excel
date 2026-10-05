@@ -8,6 +8,10 @@ przegląd wynagrodzeń, budżet kosztów pracy na 2027 r. i dashboard dla zarzą
 > Plik wymaga Excela 365 lub Excela w przeglądarce (funkcje dynamiczne: FILTER, SORT, XLOOKUP).
 
 Plik można pobrać z repozytorium lub wyświetlić [poprzez podany link: (arkusz został wstawiony na platformę OneDrive)](https://1drv.ms/x/c/a75301766ab1be92/IQCPkNuFAIy1QKkbt49ZEaAAAT0mu95BxGFfrvnuKyhNclo?e=rU5SU4) 
+
+Link do pobrania arkusza (Wtedy dopiero będzie można przetestować projekt w pełni, tryb online jest tylko do odczytu, nie zapewnia niestety interaktywności z arkuszem):
+[link do pobrania](https://github.com/Skotee/Raportowanie-danych-HR-w-MS-Excel/raw/refs/heads/master/Controlling%20personalny.xlsx)
+
 ---
 
 ## Dashboard
